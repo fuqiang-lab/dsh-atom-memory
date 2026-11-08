@@ -73,13 +73,13 @@
           - ["/global/project:/mnt/c/users/fuqia/documents/aiworkspace/legal-mail-router", "legal"]
           # --- ml-infra: the DGX cluster, in all three places it is tracked ---
           - ["/global/project:c:/users/fuqia/.dsh/im-workspace", "ml-infra"]
-          - ["/global/project:github.com/masquerator-coder/dsv41-deploy-public", "ml-infra"]
+          - ["/global/project:github.com/fuqiang-lab/dsv41-deploy-public", "ml-infra"]
           - ["/global/project:atomgit.com/foqiang/dgx-monitor", "ml-infra"]
           # --- dsh: plugin development ---
           - ["/global/project:d:/coding/dsh-plugin/dsh-atom-memory", "dsh"]
           - ["/global/project:d:/coding/dsh-plugin/dsh-im-gateway", "dsh"]
-          - ["/global/project:github.com/masquerator-coder/dsh-browser-skill", "dsh"]
-          - ["/global/project:github.com/masquerator-coder/mistakebook", "dsh"]
+          - ["/global/project:github.com/fuqiang-lab/dsh-browser-skill", "dsh"]
+          - ["/global/project:github.com/fuqiang-lab/mistakebook", "dsh"]
           # --- skill-authoring: writing the skills themselves ---
           - ["/global/project:c:/users/fuqia/documents/aiworkspace/skills分类汇总", "skill-authoring"]
 
